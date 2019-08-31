@@ -1,0 +1,17 @@
+{
+  "main.css": "/trivia/static/css/main.d6da3ac2.chunk.css",
+  "main.js": "/trivia/static/js/main.0bf04580.chunk.js",
+  "main.js.map": "/trivia/static/js/main.0bf04580.chunk.js.map",
+  "runtime~main.js": "/trivia/static/js/runtime~main.a8a14f72.js",
+  "runtime~main.js.map": "/trivia/static/js/runtime~main.a8a14f72.js.map",
+  "static/css/2.d495feec.chunk.css": "/trivia/static/css/2.d495feec.chunk.css",
+  "static/js/2.fd242d3a.chunk.js": "/trivia/static/js/2.fd242d3a.chunk.js",
+  "static/js/2.fd242d3a.chunk.js.map": "/trivia/static/js/2.fd242d3a.chunk.js.map",
+  "index.html": "/trivia/index.html",
+  "precache-manifest.0f6cc33160157a3da1bc682aefd3ec07.js": "/trivia/precache-manifest.0f6cc33160157a3da1bc682aefd3ec07.js",
+  "service-worker.js": "/trivia/service-worker.js",
+  "static/css/2.d495feec.chunk.css.map": "/trivia/static/css/2.d495feec.chunk.css.map",
+  "static/css/main.d6da3ac2.chunk.css.map": "/trivia/static/css/main.d6da3ac2.chunk.css.map",
+  "static/media/semantic.min.css": "/trivia/static/media/outline-icons.ef60a4f6.woff",
+  "static/media/logo.svg": "/trivia/static/media/logo.5d5d9eef.svg"
+}
